@@ -1,4 +1,4 @@
-package design.factory;
+package design.code;
 /**
 * @author xiey
 * @version 2017年10月30日 上午11:12:36

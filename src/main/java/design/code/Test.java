@@ -1,4 +1,4 @@
-package design.factory;
+package design.code;
 
 /**
 * @author xiey
