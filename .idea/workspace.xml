@@ -2,69 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d800320-6462-4040-8992-971f4fbfea6c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/design/factory/Device.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/design/factory/Hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/design/factory/KeyBoard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/design/factory/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/initialize/Arrayinitialize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/initialize/Arrayinitialize.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/initialize/Bowl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/initialize/Bowl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/initialize/Cupboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/initialize/Cupboard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/initialize/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/initialize/House.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/initialize/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/initialize/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/initialize/StaticInitialzation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/initialize/StaticInitialzation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/initialize/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/initialize/Table.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/initialize/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/initialize/Window.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/objectisall/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/objectisall/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/objectisall/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/objectisall/Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/operator/Constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/operator/Constructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/operator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/operator/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/operator/Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/operator/Print.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/thinkinginjava/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/thinkinginjava/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/thread/DieLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/thread/DieLock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/thread/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/thread/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/thread/RunThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/thread/RunThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/thread/RunThreadByExtedns.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/thread/RunThreadByExtedns.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/useInterfaceAndAbstrakt/Abs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/useInterfaceAndAbstrakt/Abs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/useInterfaceAndAbstrakt/Inter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/useInterfaceAndAbstrakt/Inter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/useInterfaceAndAbstrakt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/useInterfaceAndAbstrakt/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/useInterfaceAndAbstrakt/impl/InterImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/useInterfaceAndAbstrakt/impl/InterImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/visite/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/visite/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/visite/Visite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/visite/Visite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/visite/VisiteExtends.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/visite/VisiteExtends.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/factory/Device.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/factory/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/factory/KeyBoard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/design/factory/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/ki/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/ki/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hunis/ki/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/DoubleLinkNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/DoubleLinkNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design/code/Device.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/code/Device.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design/code/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/code/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design/code/KeyBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/code/KeyBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design/code/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/code/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design/thread/ImmutableObject/MMSCInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/thread/ImmutableObject/MMSCInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design/thread/ImmutableObject/MMSCRouter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/thread/ImmutableObject/MMSCRouter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/design/thread/ImmutableObject/OMCAgent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/thread/ImmutableObject/OMCAgent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hunis/ki/Test.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/Class1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/Class1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/DoubleLinkNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/DoubleLinkNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/LinkNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/LinkNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/Practice$DoubleLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/Practice$DoubleLinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class2/Class2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class2/Class2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class3/Class3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class3/Class3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class4/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class4/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class4/Class4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class4/Class4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class4/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class4/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class5/Class5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class5/Class5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class8/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class8/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class8/Proxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class8/Proxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class8/RealSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class8/RealSubject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class8/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class8/Subject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/test/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/thinkinginjava/Entity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/thinkinginjava/Entity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/thinkinginjava/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/thinkinginjava/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/thinkinginjava/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/thinkinginjava/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/thinkinginjava/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/thinkinginjava/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/thinkinginjava/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/thinkinginjava/Test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/thinkinginjava/Uhd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/thinkinginjava/Uhd.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,31 +27,68 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hunis/ki/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/DoubleLinkNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+            <state relative-caret-position="154">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Practice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1297#1298#0" expanded="true" />
+                <element signature="e#1347#1348#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/DoubleLinkNode.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hunis/test/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="196">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/design/thread/ImmutableObject/OMCAgent.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/目录">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="84">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Class1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="966">
+              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/LinkNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -121,13 +109,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/Class1/Class1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/DoubleLinkNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/LinkNode.java" />
         <option value="$PROJECT_DIR$/src/test/java/base/thinkinginjava/Test2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Practice.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class2/Class2.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class3/Class3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Class1.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class5/Class5.java" />
@@ -141,9 +126,12 @@
         <option value="$PROJECT_DIR$/src/main/java/test/A.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/B.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hunis/ki/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/design/KeyBoard.java" />
         <option value="$PROJECT_DIR$/src/main/java/design/thread/ImmutableObject/OMCAgent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hunis/ki/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Class1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/DoubleLinkNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Practice.java" />
       </list>
     </option>
   </component>
@@ -156,17 +144,15 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="980" />
+    <option name="x" value="895" />
+    <option name="width" value="1030" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,13 +192,32 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="ImmutableObject" type="462c0819:PsiDirectoryNode" />
+              <item name="hunis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kdfi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kdfi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hunis" type="462c0819:PsiDirectoryNode" />
+              <item name="nsyw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kdfi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kdfi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hunis" type="462c0819:PsiDirectoryNode" />
+              <item name="nsyw" type="462c0819:PsiDirectoryNode" />
+              <item name="class1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -243,13 +248,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
-    <configuration name="Class4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hunis.nsyw.class4.Class4" />
+  <component name="RunManager" selected="Application.Practice">
+    <configuration name="Class1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hunis.nsyw.class1.Class1" />
       <module name="kdfi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hunis.nsyw.class4.*" />
+          <option name="PATTERN" value="hunis.nsyw.class1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hunis.nsyw.class8.Client" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hunis.nsyw.class1.Practice" />
       <module name="kdfi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hunis.nsyw.class8.*" />
+          <option name="PATTERN" value="hunis.nsyw.class1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,11 +316,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.Class1" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Class4" />
       </list>
     </recent_temporary>
   </component>
@@ -326,21 +331,21 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21059692" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21059692" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36916548" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40452617" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25354108" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4036827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -349,7 +354,7 @@
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Jms Messenger" order="6" />
+      <window_info anchor="right" id="Jms Messenger" order="6" weight="0.3293092" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1802949" />
@@ -390,16 +395,16 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/hunis/test/Test.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/test/Test.java</url>
           <line>20</line>
           <properties />
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Practice.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -566,13 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Class1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="910">
-          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -637,20 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/LinkNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -690,28 +674,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding>
-            <element signature="e#1297#1298#0" expanded="true" />
-            <element signature="e#1347#1348#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/目录">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -722,34 +688,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/ki/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design/KeyBoard.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/design/thread/ImmutableObject/OMCAgent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="168">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design/KeyBoard.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="154">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/ki/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/目录">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design/thread/ImmutableObject/MMSCRouter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Class1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/LinkNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/DoubleLinkNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        <state relative-caret-position="154">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design/thread/ImmutableObject/OMCAgent.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Practice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="74">
+          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <folding>
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1347#1348#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

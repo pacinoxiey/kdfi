@@ -29,7 +29,10 @@ public class Practice {
                     DoubleLinkNode prev = cur.prev;
                     DoubleLinkNode next = cur.next;
                     prev.next = next;
-                    prev.prev = prev;
+//                    prev.prev = prev;
+                    if (next != null) {
+                        next.prev = prev;
+                    }
                     return;
                 }
                 cur = cur.next;
@@ -74,7 +77,7 @@ public class Practice {
         DoubleLinkList list = new DoubleLinkList(head);
 
         DoubleLinkNode doubleLinkNode = list.queryNode(1);
-        list.deleteNode(four);
+        list.deleteNode(three);
         list.insertNode(two, toBeInsert);
         System.err.println("");
     }

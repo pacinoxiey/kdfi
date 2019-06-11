@@ -8,7 +8,7 @@ package hunis.nsyw.class1;
 public class Class1 {
 
     public static void main(String[] args) {
-//        pra();
+        pra();
 //        sort();
 //        dos();
 
@@ -37,7 +37,9 @@ public class Class1 {
     private static void sort() {
         int[] array = {3, 4, 21, 5, 2, 1, 6};
         for (int i = 0; i < array.length - 1; i++) {
+
             for (int k = i + 1; k < array.length; k++) {
+
                 if (array[i] < array[k]) {
                     int a = array[i];
                     array[i] = array[k];

@@ -3,7 +3,7 @@ package hunis.nsyw.class1;
 /**
  * @author xiey
  * @date 2019/1/10 14:28
- * @description：
+ * @description：双向链表结构
  */
 public class DoubleLinkNode {
 
