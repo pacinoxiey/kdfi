@@ -8,7 +8,10 @@ package hunis.test;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("结果是：" + Test.foo(6));
+
+		Integer s = -1;
+		System.err.println(s);
+//		System.out.println("结果是：" + Test.foo(6));
 	}
 
 	/**
@@ -21,4 +24,5 @@ public class Test {
 			return 1;
 		return foo(i - 1) + foo(i - 2);
 	}
+
 }

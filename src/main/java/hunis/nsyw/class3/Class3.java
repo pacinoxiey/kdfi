@@ -5,14 +5,13 @@ import java.util.*;
 /**
  * @author xiey
  * @date 2019/1/10 16:57
- * @description：
+ * @description：队列
  */
 public class Class3 {
     //47587300ns
     //24938000ns
     public static void main(String args[]) {
 
-        //Deque<Integer> q = new ArrayDeque<>();
         Deque<Integer> q = new LinkedList<>();
         Deque<Integer> a = new ArrayDeque<>();
         long begin = System.nanoTime();

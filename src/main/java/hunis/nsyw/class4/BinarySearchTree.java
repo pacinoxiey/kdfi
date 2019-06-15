@@ -6,7 +6,7 @@ import java.util.Stack;
 /**
  * @author xiey
  * @date 2019/1/11 16:23
- * @description：
+ * @description：二叉树
  */
 public class BinarySearchTree<T extends Comparable<T>> {
 
@@ -105,7 +105,6 @@ public class BinarySearchTree<T extends Comparable<T>> {
              *  2检查右节点压入栈中
              *  3弹出
              */
-
             if (current.state == 0) {
                 if (current.left != null) {
                     s.push(current.left);

@@ -3,10 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="3d800320-6462-4040-8992-971f4fbfea6c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hunis/ki/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Class1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/DoubleLinkNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/DoubleLinkNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class2/Class2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class3/Class3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class3/Class3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hunis/nsyw/目录" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hunis/nsyw/目录" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hunis/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hunis/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/kdfi.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/base/kdfi/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/base/kdfi/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/design/code/Device.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/code/Device.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/design/code/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/code/Hello.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/design/code/KeyBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/code/KeyBoard.class" afterDir="false" />
@@ -14,8 +17,15 @@
       <change beforePath="$PROJECT_DIR$/target/classes/design/thread/ImmutableObject/MMSCInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/thread/ImmutableObject/MMSCInfo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/design/thread/ImmutableObject/MMSCRouter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/thread/ImmutableObject/MMSCRouter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/design/thread/ImmutableObject/OMCAgent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/design/thread/ImmutableObject/OMCAgent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hunis/ki/Test.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/Class1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/Class1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/DoubleLinkNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/DoubleLinkNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/Practice$DoubleLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/Practice$DoubleLinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class1/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class2/Class2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class3/Class3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class3/Class3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/class4/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/class4/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hunis/nsyw/目录" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/nsyw/目录" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hunis/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hunis/test/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,21 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Practice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-              <folding>
-                <element signature="e#1297#1298#0" expanded="true" />
-                <element signature="e#1347#1348#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hunis/test/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="51">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -60,8 +57,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/目录">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            <state relative-caret-position="28">
+              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class3/Class3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/BinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -69,26 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Class1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="966">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/LinkNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="1008">
+              <caret line="72" selection-start-line="72" selection-end-line="72" />
             </state>
           </provider>
         </entry>
@@ -102,6 +108,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add</find>
+      <find>Stack</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -112,17 +124,13 @@
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/LinkNode.java" />
         <option value="$PROJECT_DIR$/src/test/java/base/thinkinginjava/Test2.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class2/Class2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class3/Class3.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/Node.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class5/Class5.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/Class4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/目录" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class8/Subject.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class8/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class8/RealSubject.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class8/Proxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hunis/test/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/A.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/B.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/Test.java" />
@@ -132,6 +140,10 @@
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Class1.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/DoubleLinkNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Practice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/目录" />
+        <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class3/Class3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hunis/test/Test.java" />
       </list>
     </option>
   </component>
@@ -153,6 +165,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,14 +225,41 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hunis" type="462c0819:PsiDirectoryNode" />
               <item name="nsyw" type="462c0819:PsiDirectoryNode" />
-              <item name="class1" type="462c0819:PsiDirectoryNode" />
+              <item name="class3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kdfi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kdfi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hunis" type="462c0819:PsiDirectoryNode" />
+              <item name="nsyw" type="462c0819:PsiDirectoryNode" />
+              <item name="class4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kdfi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kdfi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hunis" type="462c0819:PsiDirectoryNode" />
+              <item name="nsyw" type="462c0819:PsiDirectoryNode" />
+              <item name="class5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kdfi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kdfi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hunis" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +289,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Practice">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Class1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hunis.nsyw.class1.Class1" />
       <module name="kdfi" />
@@ -316,9 +357,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.Class1" />
-        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
       </list>
@@ -338,7 +379,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.25354108" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4036827" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4036827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -399,12 +440,6 @@
           <line>20</line>
           <properties />
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Practice.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -512,26 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://J:/java/jdk/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://J:/java/jdk/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="128" column="22" lean-forward="true" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
-          <folding>
-            <element signature="e#8008#8009#0" expanded="true" />
-            <element signature="e#8036#8037#0" expanded="true" />
-            <element signature="e#8248#8249#0" expanded="true" />
-            <element signature="e#8275#8276#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://J:/java/jdk/src.zip!/java/util/AbstractList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -561,13 +576,6 @@
             <element signature="e#30684#30685#0" expanded="true" />
             <element signature="e#30716#30717#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class2/Class2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -604,13 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class3/Class3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class5/Class5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -632,13 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -674,13 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/Class4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -703,38 +690,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/ki/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/目录">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/ki/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/design/thread/ImmutableObject/MMSCRouter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Class1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
@@ -745,6 +705,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class2/Class2.java" />
+    <entry file="jar://J:/java/jdk/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="231" column="9" selection-start-line="231" selection-start-column="9" selection-end-line="231" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://J:/java/jdk/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="124" column="17" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
+          <folding>
+            <element signature="e#8008#8009#0" expanded="true" />
+            <element signature="e#8036#8037#0" expanded="true" />
+            <element signature="e#8248#8249#0" expanded="true" />
+            <element signature="e#8275#8276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://J:/java/jdk/src.zip!/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="221" column="10" selection-start-line="221" selection-start-column="7" selection-end-line="221" selection-end-column="10" />
+          <folding>
+            <element signature="e#6627#6628#0" expanded="true" />
+            <element signature="e#6668#6669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://J:/java/jdk/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="38" column="48" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/DoubleLinkNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -752,14 +751,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/目录">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class3/Class3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Class1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class4/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hunis/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hunis/nsyw/class1/Practice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-          <folding>
-            <element signature="e#1297#1298#0" expanded="true" />
-            <element signature="e#1347#1348#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
