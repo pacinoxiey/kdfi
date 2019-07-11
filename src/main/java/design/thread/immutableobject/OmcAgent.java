@@ -1,10 +1,10 @@
-package design.thread.ImmutableObject;
+package design.thread.immutableobject;
 
 /**
  * @author xiey
  * @version 2019年6月10日 下午2:52:44
  */
-public class OMCAgent extends Thread {
+public class OmcAgent extends Thread {
 
 	@Override
 	public void run() {
@@ -17,7 +17,7 @@ public class OMCAgent extends Thread {
 			 */
 			if (isTableModificationMsg) {
 				if ("MMSCInfo".equals(updatedTableName)) {
-					MMSCRouter.setInstance(new MMSCRouter());
+					MmscRouter.setInstance(new MmscRouter());
 				}
 			}
 			// 省略其它代码

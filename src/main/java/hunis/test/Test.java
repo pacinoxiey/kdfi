@@ -11,6 +11,7 @@ public class Test {
 
 		Integer s = -1;
 		System.err.println(s);
+		System.err.println(1000L-2000L);
 //		System.out.println("结果是：" + Test.foo(6));
 	}
 

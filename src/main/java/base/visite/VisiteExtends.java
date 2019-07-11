@@ -12,6 +12,7 @@ public class VisiteExtends extends Visite {
 		this.name();
 	}
 	
+	@Override
 	protected void name() {
 		System.err.println("VisiteExtends protected");
 	}

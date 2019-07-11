@@ -1,9 +1,9 @@
-package design.thread.ImmutableObject;
+package design.thread.immutableobject;
 /**
  * @author xiey
  * @version 2019年6月10日 下午2:38:00
  */
-public final class MMSCInfo {
+public final class MmscInfo {
 	/**
 	 * 设备编号
 	 */
@@ -17,13 +17,13 @@ public final class MMSCInfo {
 	 */
 	private final int maxAttachmentSizeInBytes;
 
-	public MMSCInfo(String deviceID, String url, int maxAttachmentSizeInBytes) {
+	public MmscInfo(String deviceID, String url, int maxAttachmentSizeInBytes) {
 		this.deviceID = deviceID;
 		this.url = url;
 		this.maxAttachmentSizeInBytes = maxAttachmentSizeInBytes;
 	}
 
-	public MMSCInfo(MMSCInfo prototype) {
+	public MmscInfo(MmscInfo prototype) {
 		this.deviceID = prototype.deviceID;
 		this.url = prototype.url;
 		this.maxAttachmentSizeInBytes = prototype.maxAttachmentSizeInBytes;
