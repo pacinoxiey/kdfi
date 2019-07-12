@@ -1,9 +1,9 @@
-package design.code.factorydesign.common.factory;
+package design.code.factorydesign.factory;
 
-import design.code.factorydesign.common.behavior.ILogin;
-import design.code.factorydesign.common.behavior.IUser;
-import design.code.factorydesign.common.behavior.OracleLogin;
-import design.code.factorydesign.common.behavior.OracleUser;
+import design.code.factorydesign.behavior.ILogin;
+import design.code.factorydesign.behavior.IUser;
+import design.code.factorydesign.behavior.OracleLogin;
+import design.code.factorydesign.behavior.OracleUser;
 
 /**
  * @author xiey

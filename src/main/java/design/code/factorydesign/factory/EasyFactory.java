@@ -1,5 +1,6 @@
-package design.code.factorydesign.common.factory;
+package design.code.factorydesign.factory;
 
+import design.code.factorydesign.behavior.*;
 import design.code.factorydesign.common.behavior.*;
 
 /**

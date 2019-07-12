@@ -1,10 +1,10 @@
-package design.code.factorydesign.common;
+package design.code.factorydesign;
 
-import design.code.factorydesign.common.behavior.ILogin;
-import design.code.factorydesign.common.behavior.IUser;
-import design.code.factorydesign.common.factory.EasyFactory;
-import design.code.factorydesign.common.factory.IFactory;
-import design.code.factorydesign.common.factory.MysqlFactory;
+import design.code.factorydesign.behavior.ILogin;
+import design.code.factorydesign.behavior.IUser;
+import design.code.factorydesign.factory.EasyFactory;
+import design.code.factorydesign.factory.IFactory;
+import design.code.factorydesign.factory.MysqlFactory;
 
 /**
  * @author xiey
@@ -14,7 +14,6 @@ import design.code.factorydesign.common.factory.MysqlFactory;
 public class Main {
 
     /**
-     *
      * 实现类即为拥有相同属性, 不同实现的作品, 父类即为工厂
      * 普通工厂模式: 抽象出一类对象的相同属性(mysql和oracle中的user), 用不同实例实现, 再通过父类引用需要的子类
      */
@@ -35,7 +34,6 @@ public class Main {
         IUser easyUserOperation = EasyFactory.createUser();
         easyUserOperation.getUser(1);
         easyUserOperation.insert(user);
-
 
 
         IUser userOperation = factory.getUser();

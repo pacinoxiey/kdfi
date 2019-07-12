@@ -1,4 +1,4 @@
-package design.code.factorydesign.common.behavior;
+package design.code.factorydesign.behavior;
 
 /**
  * @author xiey

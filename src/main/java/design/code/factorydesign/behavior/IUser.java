@@ -1,6 +1,6 @@
-package design.code.factorydesign.common.behavior;
+package design.code.factorydesign.behavior;
 
-import design.code.factorydesign.common.User;
+import design.code.factorydesign.User;
 
 /**
  * @author xiey
