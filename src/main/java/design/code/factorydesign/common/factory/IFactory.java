@@ -1,5 +1,6 @@
 package design.code.factorydesign.common.factory;
 
+import design.code.factorydesign.common.behavior.ILogin;
 import design.code.factorydesign.common.behavior.IUser;
 
 /**
@@ -10,4 +11,11 @@ import design.code.factorydesign.common.behavior.IUser;
 public interface IFactory {
 
     IUser getUser();
+
+    /**
+     * 数据库里有多个表, 就添加多个接口
+     *
+     * @return
+     */
+    ILogin getLogin();
 }

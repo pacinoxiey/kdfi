@@ -1,6 +1,8 @@
 package design.code.factorydesign.common.factory;
 
+import design.code.factorydesign.common.behavior.ILogin;
 import design.code.factorydesign.common.behavior.IUser;
+import design.code.factorydesign.common.behavior.MysqlLogin;
 import design.code.factorydesign.common.behavior.MysqlUser;
 
 /**
@@ -12,5 +14,10 @@ public class MysqlFactory implements IFactory {
     @Override
     public IUser getUser() {
         return new MysqlUser();
+    }
+
+    @Override
+    public ILogin getLogin() {
+        return new MysqlLogin();
     }
 }

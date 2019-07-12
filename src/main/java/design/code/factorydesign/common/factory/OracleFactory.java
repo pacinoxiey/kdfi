@@ -1,6 +1,8 @@
 package design.code.factorydesign.common.factory;
 
+import design.code.factorydesign.common.behavior.ILogin;
 import design.code.factorydesign.common.behavior.IUser;
+import design.code.factorydesign.common.behavior.OracleLogin;
 import design.code.factorydesign.common.behavior.OracleUser;
 
 /**
@@ -12,5 +14,10 @@ public class OracleFactory implements IFactory {
     @Override
     public IUser getUser() {
         return new OracleUser();
+    }
+
+    @Override
+    public ILogin getLogin() {
+        return new OracleLogin();
     }
 }
