@@ -12,6 +12,7 @@ public abstract class Builder {
 
     //返回产品对象
     public Bike getResult() {
+        System.out.println("自行车生产完毕");
         return product;
     }
 
