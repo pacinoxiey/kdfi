@@ -1,5 +1,6 @@
 package test;
 
+import org.apache.commons.lang3.StringUtils;
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
 
@@ -18,11 +19,13 @@ public class Test {
 //    }
     public static void main(String[] args) {
 
-        String strImg = GetImageStr();
 
-        System.out.println(strImg);
 
-        GenerateImage(strImg);
+//        String strImg = GetImageStr();
+
+//        System.out.println(strImg);
+
+//        GenerateImage(strImg);
 
     }
 
