@@ -6,7 +6,7 @@ package design.decorate;
  */
 public abstract class Beverage {
 
-    public String descirption = "unknow beverage";
+    protected String descirption = "unknow beverage";
 
     public abstract double cost();
 

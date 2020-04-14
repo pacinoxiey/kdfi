@@ -10,12 +10,14 @@ public class Main {
         //基本
         Beverage beverage = new Espresso();
         System.out.println(beverage.getDescirption() + " ￥" + beverage.cost());
-        //进行装饰
+        //装饰
         Beverage darkRoast = new DarkRoast();
         darkRoast = new Mocha(darkRoast);
-        darkRoast = new Mocha(darkRoast);
-        darkRoast = new Whip(darkRoast);
-        System.out.println(((Whip) darkRoast).getDescirption() + " ￥" + darkRoast.cost());
+        Beverage beverage3 = new HouseBlend();
+        beverage3 = new Mocha(new Whip(new Soy(beverage3)));
+//        darkRoast = new Mocha(darkRoast);
+//        darkRoast = new Whip(darkRoast);
+        System.out.println(beverage3.getDescirption() + " ￥" + beverage3.cost());
 
 
     }
