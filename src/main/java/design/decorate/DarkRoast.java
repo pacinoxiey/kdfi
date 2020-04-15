@@ -7,7 +7,7 @@ package design.decorate;
 public class DarkRoast extends Beverage {
 
     public DarkRoast() {
-        super.descirption = "DarkRoast";
+        super.description = "DarkRoast";
     }
 
     @Override

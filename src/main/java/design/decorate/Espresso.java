@@ -9,7 +9,7 @@ package design.decorate;
 public class Espresso extends Beverage {
 
     public Espresso() {
-        descirption = "Espresso";
+        description = "Espresso";
     }
 
     @Override

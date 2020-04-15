@@ -6,11 +6,11 @@ package design.decorate;
  */
 public abstract class Beverage {
 
-    protected String descirption = "unknow beverage";
+    protected String description = "unknow beverage";
 
     public abstract double cost();
 
-    String getDescirption() {
-        return descirption;
+    String getDescription() {
+        return description;
     }
 }

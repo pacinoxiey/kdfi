@@ -7,18 +7,16 @@ package design.decorate;
 public class Main {
 
     public static void main(String[] args) {
-        //基本
-        Beverage beverage = new Espresso();
-        System.out.println(beverage.getDescirption() + " ￥" + beverage.cost());
-        //装饰
-        Beverage darkRoast = new DarkRoast();
-        darkRoast = new Mocha(darkRoast);
-        Beverage beverage3 = new HouseBlend();
-        beverage3 = new Mocha(new Whip(new Soy(beverage3)));
-//        darkRoast = new Mocha(darkRoast);
-//        darkRoast = new Whip(darkRoast);
-        System.out.println(beverage3.getDescirption() + " ￥" + beverage3.cost());
+// 一杯DarkRoast，不需要调料
+        Beverage beverage = new DarkRoast();
+        System.out.println(beverage.getDescription() + " $" + beverage.cost());
 
+        // 一杯DarkRoast，加双份Mocha和奶泡
+        Beverage beverage2 = new DarkRoast();
+        beverage2 = new Mocha(beverage2);
+        beverage2 = new Mocha(beverage2);
+        beverage2 = new Whip(beverage2);
+        System.out.println(beverage2.getDescription() + " $" + beverage2.cost());
 
     }
 }

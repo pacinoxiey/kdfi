@@ -9,7 +9,7 @@ package design.decorate;
 public class HouseBlend extends Beverage {
 
     public HouseBlend() {
-        descirption = "HouseBend coffee";
+        description = "HouseBend coffee";
     }
 
     @Override
