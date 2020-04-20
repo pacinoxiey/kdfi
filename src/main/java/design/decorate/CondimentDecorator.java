@@ -1,6 +1,8 @@
 package design.decorate;
 
 /**
+ * 装饰抽象类
+ *
  * @author xiey
  * @version 2020/4/13
  */

@@ -5,3 +5,4 @@ src
         ---concurrency
         ---design 设计模式
             ---decorate 装饰者模式
+            ---proxy 代理模式
