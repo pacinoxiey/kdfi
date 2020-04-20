@@ -5,7 +5,6 @@ import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.List;
 
 /**
@@ -27,6 +26,8 @@ public class ReflectClass {
                 System.out.println("方法返回值类型：" + method.getReturnType());
                 System.out.println("方法入参：" + method.getParameterTypes());
             }
+            //查找类所在位置，并将找到的Java类的字节码装入内存，生成对应的Class对象
+            ClassLoader classLoader = classBook.getClassLoader();
             Object objectBook = classBook.newInstance();
             Book book = (Book) objectBook;
             book.setName("java 高级特性 反射");
@@ -41,8 +42,9 @@ public class ReflectClass {
     public static void reflectPrivateConstructor() {
         try {
             Class<?> classBook = Class.forName("base.reflection.Book");
-            Constructor<?> declaredConstructorBook = classBook.getDeclaredConstructor(String.class, String.class);
-            declaredConstructorBook.setAccessible(true);
+            Constructor<?> declaredConstructorBook = classBook.getDeclaredConstructor
+                    (String.class, String.class);
+            declaredConstructorBook.setAccessible(true);//关闭java 访问权限控制
             Object objectBook = declaredConstructorBook.newInstance("java 高级特性 反射", "***");
             Book book = (Book) objectBook;
             System.out.println(TAG + " reflectPrivateConstructor book = " + book.toString());
@@ -54,7 +56,7 @@ public class ReflectClass {
     // 反射私有属性
     public static void reflectPrivateField() {
         try {
-            Class<?> classBook = Class.forName("com.android.peter.reflectdemo.Book");
+            Class<?> classBook = Class.forName("base.reflection.Book");
             Object objectBook = classBook.newInstance();
             Field fieldTag = classBook.getDeclaredField("TAG");
             fieldTag.setAccessible(true);
@@ -68,7 +70,7 @@ public class ReflectClass {
     // 反射私有方法
     public static void reflectPrivateMethod() {
         try {
-            Class<?> classBook = Class.forName("com.android.peter.reflectdemo.Book");
+            Class<?> classBook = Class.forName("base.reflection.Book");
             Method methodBook = classBook.getDeclaredMethod("declaredMethod", int.class);
             methodBook.setAccessible(true);
             Object objectBook = classBook.newInstance();
@@ -80,10 +82,15 @@ public class ReflectClass {
         }
     }
 
-    public static int ss[] = {1, 2, 3, 4, 5, 6, 7, 8};
-
     public static void main(String[] args) {
 
+        reflectPrivateConstructor();
+//        reflectNewInstance();
+    }
+
+    public static int ss[] = {1, 2, 3, 4, 5, 6, 7, 8};
+
+    public List<List<Integer>> getList() {
         List<List<Integer>> example = new ArrayList<>();
         for (int a : ss) {
             int A = 15 - a;
@@ -102,10 +109,7 @@ public class ReflectClass {
                 }
             }
         }
-
-        List<List<List<Integer>>> kk = kk(example);
-
-//        reflectNewInstance();
+        return example;
     }
 
     public static List<List<List<Integer>>> kk(List<List<Integer>> example) {
