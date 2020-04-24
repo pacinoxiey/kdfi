@@ -1,4 +1,4 @@
-package keyword.abstractAndInterface;
+package base.abstractAndInterface;
 
 /**
  * @author xiey

@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @author xiey
  * @version 2020/4/16
  * @description: PersonInvocationHandler 类实现InvocationHandler接口，
- * 这个类中持有一个被代理对象(委托类)的实例object。该类别JDK Proxy类回调
+ * 这个类中持有一个被代理对象(委托类)的实例object。该类被JDK Proxy类回调
  * InvocationHandler 接口中有一个invoke方法，当一个代理实例的方法被调用时，
  * 代理方法将被编码并分发到 InvocationHandler接口的invoke方法执行。
  */

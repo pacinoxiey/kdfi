@@ -85,11 +85,13 @@ public class DynamicProxyTest {
      * @param interfaces 代理类需要实现的接口
      * @param pathdir    代理类保存的目录路径,以目录分隔符结尾
      */
-    public static void saveClass(String className, Class<?>[] interfaces, String pathdir) {        /**
-     * 第一个参数是 代理类 名 。
-     * 第二个参数是 代理类需要实现的接口
-     */
-        byte[] classFile = ProxyGenerator.generateProxyClass(className, interfaces);        /**
+    public static void saveClass(String className, Class<?>[] interfaces, String pathdir) {
+        /**
+         * 第一个参数是 代理类 名 。
+         * 第二个参数是 代理类需要实现的接口
+         */
+        byte[] classFile = ProxyGenerator.generateProxyClass(className, interfaces);
+        /**
          * 如果目录不存在就新建所有子目录
          */
         Path path1 = Paths.get(pathdir);
