@@ -119,4 +119,9 @@ public class DynamicProxyTest {
         Properties props = (Properties) field.get(null);
         props.put("sun.misc.ProxyGenerator.saveGeneratedFiles", "true");
     }
+
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
 }

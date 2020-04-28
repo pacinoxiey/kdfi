@@ -2,8 +2,7 @@ package design.code.builder;
 
 /**
  * @author xiey
- * @date 2019/7/12 16:40
- * @description：
+ * @version 2019/7/12 16:40
  */
 public class Director {
 

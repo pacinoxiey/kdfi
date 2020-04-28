@@ -2,8 +2,8 @@ package design.code.builder;
 
 /**
  * @author xiey
- * @date 2019/7/12 16:03
- * @description：
+ * @version 2019/7/12 16:03
+ * 抽象出具体需要的功能/配置
  */
 public abstract class Builder {
 

@@ -6,8 +6,7 @@ import design.code.builder.part.ITire;
 
 /**
  * @author xiey
- * @date 2019/7/12 16:01
- * @description：
+ * @version  2019/7/12 16:01
  */
 public class Bike {
 

@@ -2,14 +2,14 @@ package design.code.builder;
 
 /**
  * @author xiey
- * @date 2019/7/12 16:05
- * @description：
+ * @version 2019/7/12 16:05
+ * 具体某种类型的组装
  */
 public class BikeBuilder extends Builder {
 
     @Override
     void buildFrame() {
-        /**
+        /*
          * 使用工厂模式拓展
          */
 //        product.setTire();
