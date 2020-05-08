@@ -14,6 +14,8 @@ public class Stream8 {
 
 
     public static void main(String[] args) {
+        int a = 20 >> 1;
+        System.err.println(a);
         List<B> bList = new ArrayList<>();
         bList.add(new B("a", "1"));
         bList.add(new B("a", "2"));

@@ -1,0 +1,1 @@
+inputString 是所有输入字节流的超类

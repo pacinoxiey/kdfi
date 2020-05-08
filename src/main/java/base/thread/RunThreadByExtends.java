@@ -5,7 +5,7 @@ package base.thread;
  * @version 2019年4月2日 下午1:57:07
  * @describe
  */
-public class RunThreadByExtedns extends Thread {
+public class RunThreadByExtends extends Thread {
 	private int count = 10;
 
 	public void run() {
@@ -18,7 +18,7 @@ public class RunThreadByExtedns extends Thread {
 	}
 
 	public static void main(String[] args) {
-		new RunThreadByExtedns().start();
+		new RunThreadByExtends().start();
 
 	}
 }

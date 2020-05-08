@@ -11,7 +11,7 @@ public class Class3 {
     //47587300ns
     //24938000ns
     public static void main(String args[]) {
-
+        List<String> s = new ArrayList<>();
         Deque<Integer> q = new LinkedList<>();
         Deque<Integer> a = new ArrayDeque<>();
         long begin = System.nanoTime();

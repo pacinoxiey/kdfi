@@ -5,6 +5,9 @@ import base.visite.VisiteExtends;
 
 public class Demo1 {
 	public static void main(String[] args) {
+		int p = 33;
+		p = p>>1;
+		System.err.println(p);
 		String a = "abcd";
 		String s = "ab" + new String("cd");
 		System.out.println(a == s);

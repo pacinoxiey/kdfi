@@ -41,7 +41,7 @@ public class Test {
                 d.asyn();
             }
         });
-        //静态方法将锁定class对象，所有同步方法都要等待锁，普通方法不受影响
+        //synchronized方法将锁定class对象，所有同步方法都要等待锁，普通方法不受影响
         t3.start();
         t1.start();
         t2.start();
