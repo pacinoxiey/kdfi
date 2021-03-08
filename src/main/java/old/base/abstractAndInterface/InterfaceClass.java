@@ -13,6 +13,6 @@ public interface InterfaceClass {
     //接口中可以存在静态变量, 但默认是public final的
     public static final String a = "";
 
-    //方法默认是public, 且只能是public
-    public void method();
+    //方法默认是public, 且只能是public, 且都是抽象方法
+    public abstract void method();
 }
