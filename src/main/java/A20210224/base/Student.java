@@ -24,4 +24,15 @@ public class Student {
     public Student() {
 
     }
+
+    public int hashCode() {
+        return 1;
+    }
+
+    public boolean equals(Object obj) {
+        if (this.hashCode() == obj.hashCode()) {
+            return true;
+        }
+        return false;
+    }
 }

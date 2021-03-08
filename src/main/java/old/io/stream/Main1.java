@@ -9,11 +9,12 @@ import java.io.*;
  * @version 2020/4/28
  * @description:
  */
-public class Main {
+public class Main1 {
 
     @Test
     public void test06() throws IOException {
-        FileWriter fileWriter = new FileWriter(new File("").getAbsoluteFile() + "/src/main/java/old.io/stream/test.txt");
+        FileWriter fileWriter = new FileWriter(new File("").getAbsoluteFile() +
+                "/src/main/java/old/io/stream/test.txt");
         fileWriter.write("Hello，world！\n欢迎来到 java 世界\n");
         fileWriter.write("不会覆盖文件原本的内容\n");
 //        fileWriter.write(null); 不能直接写入 null

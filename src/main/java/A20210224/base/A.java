@@ -4,9 +4,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @author xiey
@@ -29,8 +28,9 @@ public class A {
 //        test4();
 //        test5();
 //        test6();
-        System.err.println(test7(2));
-
+//        System.err.println(test7(2));
+//        test8();
+        test9();
     }
 
     private static void test1() throws NoSuchMethodException, InvocationTargetException, IllegalAccessException {
@@ -120,7 +120,7 @@ public class A {
         }
     }
 
-    private static void tst8(){
+    private static void tst8() {
         try (Scanner scanner = new Scanner(new File("test.txt"))) {
             while (scanner.hasNext()) {
                 System.out.println(scanner.nextLine());
@@ -128,6 +128,31 @@ public class A {
         } catch (FileNotFoundException fnfe) {
             fnfe.printStackTrace();
         }
+    }
 
+    private static void test8() {
+        Student stu1 = new Student("a");
+        Student stu2 = new Student("b");
+        System.err.println(stu1.equals(stu2));//false, 要重写equalshe hashCode
+
+        HashSet<Student> studentHashSet = new HashSet<>();
+        studentHashSet.add(stu1);
+        studentHashSet.add(stu2);
+        System.err.println();//存在相同键, 不会覆盖原有值
+        HashMap<Student, Student> hashMap = new HashMap<>();
+        hashMap.put(stu1, stu1);
+        hashMap.put(stu2, stu2);
+        System.err.println();
+
+        ConcurrentHashMap concurrentHashMap = new ConcurrentHashMap();
+
+//        Collections.s
+    }
+
+    private static void test9() {
+        int a = 1;
+        int b = a++;//先赋值, 后计算
+        System.err.println(a);
+        System.err.println(b);
     }
 }
