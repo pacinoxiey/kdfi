@@ -12,7 +12,7 @@ import java.lang.reflect.Method;
  * @description: 实现MethodInterceptor
  */
 public class CglibMethodInterceptor implements MethodInterceptor {
-    /*
+    /**
      * 用于生成 Cglib 动态代理类工具方法
      * @param target 代表需要 被代理的 委托类的 Class 对象
      * @return
