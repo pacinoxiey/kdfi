@@ -1,4 +1,4 @@
-package old.design.proxy.staticProxy;
+package old.design.proxy.staticproxy;
 
 /**
  * @author xiey

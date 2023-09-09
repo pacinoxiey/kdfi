@@ -6,8 +6,6 @@ package old.design.proxy.dynamicproxy;
  * @description: 具体实现类，被代理的类
  */
 public class SoftwareEngineer implements Person {
-    public SoftwareEngineer() {
-    }
 
     public SoftwareEngineer(String name) {
         this.name = name;
@@ -15,10 +13,12 @@ public class SoftwareEngineer implements Person {
 
     private String name;
 
+    @Override
     public String getName() {
         return name;
     }
 
+    @Override
     public void setName(String name) {
         this.name = name;
     }

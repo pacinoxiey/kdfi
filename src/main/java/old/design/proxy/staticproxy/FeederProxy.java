@@ -1,4 +1,4 @@
-package old.design.proxy.staticProxy;
+package old.design.proxy.staticproxy;
 
 /**
  * @author xiey
@@ -13,13 +13,13 @@ public class FeederProxy implements ICat {
     }
 
     public FeederProxy(ICat cat) {
-        if (cat instanceof ICat) {
+        if (cat != null) {
             this.cat = cat;
         }
     }
 
     public void setCat(ICat cat) {
-        if (cat instanceof ICat) {
+        if (cat != null) {
             this.cat = cat;
         }
     }

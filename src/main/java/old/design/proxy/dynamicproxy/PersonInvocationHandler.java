@@ -35,7 +35,6 @@ public class PersonInvocationHandler<T> implements InvocationHandler {
         System.out.println("被动态代理类回调执行, 代理类 proxyClass =" + proxy.getClass() + " 方法名: " + method.getName() + "方法. 方法返回类型：" + method.getReturnType()
                 + " 接口方法入参数组: " + (args == null ? "null" : Arrays.toString(args)));
         /* 调用被代理对象的真实方法，*/
-        Object result = method.invoke(object, args);
-        return result;
+        return method.invoke(object, args);
     }
 }
