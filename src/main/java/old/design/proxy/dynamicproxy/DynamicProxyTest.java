@@ -1,6 +1,6 @@
 package old.design.proxy.dynamicproxy;
 
-import sun.misc.ProxyGenerator;
+//import sun.misc.ProxyGenerator;
 
 import java.io.FileOutputStream;
 import java.lang.reflect.Constructor;
@@ -91,7 +91,7 @@ public class DynamicProxyTest {
          * 第一个参数是 代理类 名 。
          * 第二个参数是 代理类需要实现的接口
          */
-        byte[] classFile = ProxyGenerator.generateProxyClass(className, interfaces);
+//        byte[] classFile = ProxyGenerator.generateProxyClass(className, interfaces);
         /**
          * 如果目录不存在就新建所有子目录
          */
@@ -101,7 +101,7 @@ public class DynamicProxyTest {
         }
         String path = pathdir + className + ".class";
         try (FileOutputStream fos = new FileOutputStream(path)) {
-            fos.write(classFile);
+//            fos.write(classFile);
             fos.flush();
             System.out.println("代理类class文件写入成功");
         } catch (Exception e) {
