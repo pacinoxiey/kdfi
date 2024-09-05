@@ -1,4 +1,6 @@
 package old.design.thread.immutableobject;
+
+
 /**
  * @author xiey
  * @version 2019年6月10日 下午2:38:00

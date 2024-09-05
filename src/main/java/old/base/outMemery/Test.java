@@ -14,11 +14,11 @@ public class Test {
         for (int i = 1; i < 100; i++) {
             Object o = new Object();
             v.add(o);
-            o = null;
+//            o = null;
         }
 
         String a = "abc";
         StringBuffer sb = new StringBuffer("abc");
-        System.err.println(a.equals(sb));
+        System.err.println(a.contentEquals(sb));
     }
 }

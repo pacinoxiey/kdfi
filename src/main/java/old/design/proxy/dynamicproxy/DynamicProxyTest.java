@@ -10,6 +10,7 @@ import java.lang.reflect.Proxy;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Arrays;
+import java.util.Map;
 import java.util.Properties;
 
 /**
@@ -61,7 +62,7 @@ public class DynamicProxyTest {
         Class<?> proxyClass = Proxy.getProxyClass(Person.class.getClassLoader(), Person.class);
         /* 代理类信息 */
         System.out.println("package = " + proxyClass.getPackage() + " SimpleName = " + proxyClass.getSimpleName() +
-                " name =" + proxyClass.getName() + " CanonicalName = " + "" + proxyClass.getCanonicalName() +
+                " name =" + proxyClass.getName() + " CanonicalName = " + proxyClass.getCanonicalName() +
                 " 实现的接口 Interfaces = " + Arrays.toString(proxyClass.getInterfaces()) + " superClass = " + proxyClass.getSuperclass() +
                 " methods =" + Arrays.toString(proxyClass.getMethods()));
         // 3、  通过 proxyClass 获得 一个带有InvocationHandler参数的构造器constructor

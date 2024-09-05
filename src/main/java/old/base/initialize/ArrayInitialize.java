@@ -7,7 +7,7 @@ import java.util.Random;
  * @author 10040
  *
  */
-public class Arrayinitialize {
+public class ArrayInitialize {
 	public static void main(String[] args) {
 		Random random = new Random(47);
 		Integer[] integer = new Integer[random.nextInt(40)];

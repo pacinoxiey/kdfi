@@ -28,7 +28,7 @@ public class Main {
         // 一杯DarkRoast，加双份Mocha和奶泡
         Beverage beverage2 = new DarkRoast();
         beverage2 = new Mocha(beverage2);
-        beverage2 = new Mocha(beverage2);
+        beverage2 = new Soy(beverage2);
         beverage2 = new Whip(beverage2);
         System.out.println(beverage2.getDescription() + " $" + beverage2.cost());
 

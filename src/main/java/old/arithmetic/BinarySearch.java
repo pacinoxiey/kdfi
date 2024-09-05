@@ -10,7 +10,10 @@ public class BinarySearch {
     private static int[] array = {1, 3, 5, 7, 9, 10, 17};
 
     public static void main(String[] args) {
-        Boolean aBoolean = binarySearch(5, 0, array.length - 1);
+
+        System.err.println(8 >>> 1);
+        System.err.println(8/2);
+        boolean aBoolean = binarySearch(5, 0, array.length - 1);
         System.err.println("exist？" + aBoolean);
         int i = binarySortRecursion(5, 0, array.length - 1);
         System.err.println(i);
@@ -20,7 +23,7 @@ public class BinarySearch {
      * @param flag 要查找的值
      * @return 是否存在
      */
-    public static Boolean binarySearch(int flag, int indexOfStart, int indexOfEnd) {
+    public static boolean binarySearch(int flag, int indexOfStart, int indexOfEnd) {
         int midIndex = (indexOfStart + indexOfEnd) / 2;
 
         if (flag < array[indexOfStart] || flag > array[indexOfEnd] || indexOfStart > indexOfEnd) {

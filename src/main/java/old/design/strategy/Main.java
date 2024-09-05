@@ -9,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        People p = new People();
+        People p = new People(); 
         System.out.println("不使用策略过滤");
         p.print();
         System.out.println("使用StrategyType过滤");
